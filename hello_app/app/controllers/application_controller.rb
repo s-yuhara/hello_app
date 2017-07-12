@@ -6,7 +6,7 @@ render html: "hello,world."
 
 end
 def goodbye
-render html: "goodbye,worlds."
+render html: "goodbye,worldss ."
 
 end
 end
